@@ -9,7 +9,7 @@ are also employed in many application areas including Web usage mining, intrusio
 Creation of Buying Table:
 ### Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
-2) Type the following training data set with the help of Notepad for Buying Table.
+2) Type the following training data set with the help of Notepad for Buying Table. 
 
 ```
 @relation buying
